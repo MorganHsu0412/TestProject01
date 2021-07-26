@@ -22,7 +22,7 @@ namespace WindowsFormsApp1
             label1.Text = "ABC5";
             label2.Text = "ABC2";
             label3.Text = "ABC3";
-            label4.Text = "Branch01";
+            label4.Text = "BranchMerge~~";
         }
     }
 }

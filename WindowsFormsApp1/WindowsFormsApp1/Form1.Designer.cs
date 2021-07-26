@@ -82,9 +82,9 @@
             this.label4.Font = new System.Drawing.Font("新細明體", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.label4.Location = new System.Drawing.Point(293, 221);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(75, 24);
+            this.label4.Size = new System.Drawing.Size(134, 24);
             this.label4.TabIndex = 4;
-            this.label4.Text = "Branch";
+            this.label4.Text = "BranchMerge";
             // 
             // label5
             // 
