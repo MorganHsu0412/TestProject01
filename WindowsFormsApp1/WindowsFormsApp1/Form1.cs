@@ -20,7 +20,7 @@ namespace WindowsFormsApp1
         private void button1_Click(object sender, EventArgs e)
         {
             label1.Text = "ABC5";
-            label2.Text = "ABC2";
+            label2.Text = "ABC6";
             label3.Text = "ABC3";
         }
     }
